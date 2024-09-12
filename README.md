@@ -17,7 +17,7 @@ Abrakadabra yessssssssssssss...
 
 ### 📊 Stats
 
-![H-Loon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-loon&show_icons=true&theme=gruvbox)
+![H-Loon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-loon&show_icons=true&theme=transparent)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=H-Loon&theme=gruvbox&border_radius=4.5) -->
 

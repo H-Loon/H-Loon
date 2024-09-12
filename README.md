@@ -1,12 +1,12 @@
-# 🎧 H-Loon
+#  H-Loon
 
 **`Digital Craftsman (Developer/Gamer/Dream-Destrtoyer)`**
 
 Abrakadabra yessssssssssssss...
 
----
+#
 
-### 🧰 Languages and Tools
+###  Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -15,9 +15,10 @@ Abrakadabra yessssssssssssss...
 
 #
 
-### 📊 Stats
+### Stats
 
-![H-Loon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-loon&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-loon&layout=donut&theme=transparent&hide_border=true)](https://github.com/h-loon/github-readme-stats)
+![H-Loon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-loon&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=H-Loon&theme=gruvbox&border_radius=4.5) -->
+
 

@@ -1,12 +1,20 @@
-#  H-Loon
+# 🎧 H-Loon
 
-**`Digital Craftsman (Developer/Gamer/Dream-Destrtoyer)`**
-
-Abrakadabra yessssssssssssss...
+**`Digital Craftsman (Developer/Gamer/Dream-Destrtoyer)`**<br/>
+👋 Hello! I'm Elie Hadad<br/>
+🎓 Student at JCT | Studying Ingénieur Informatique<br/>
+💻 Passionate about C++, Game Development, and creating amazing front-end designs. <br/>
 
 #
 
-###  Languages and Tools
+### 📖 | Interset 
+* #### Game Development<br/>
+* ####Front-End Development (UI/UX)<br/>
+* #### Learning more about web technologies and improving design skills.<br/>
+
+#
+
+###  🛠 | Languages and Tools
 
 * #### Skills
 [![My Skills](https://skillicons.dev/icons?i=,cpp,vscode,visualstudio,github,git)](https://skillicons.dev)
@@ -16,7 +24,7 @@ Abrakadabra yessssssssssssss...
 
 #
 
-### Socials
+### 🤳| Socials
 
 * [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hloon) <br/>
 * [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/h_l00n2) <br/>
@@ -25,7 +33,7 @@ Abrakadabra yessssssssssssss...
 
 #
 
-### Stats
+### 📊 | Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-loon&layout=donut&theme=transparent&hide_border=true)](https://github.com/h-loon/github-readme-stats)
 ![H-Loon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-loon&show_icons=true&theme=transparent&hide_border=true&hide_title=true)

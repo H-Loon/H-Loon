@@ -9,7 +9,7 @@
 
 ### 📖 | Interset 
 * #### Game Development<br/>
-* ####Front-End Development (UI/UX)<br/>
+* #### Front-End Development (UI/UX)<br/>
 * #### Learning more about web technologies and improving design skills.<br/>
 
 #

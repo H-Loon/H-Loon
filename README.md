@@ -9,7 +9,7 @@ Abrakadabra yessssssssssssss...
 ###  Languages and Tools
 
 - #### Skills
-[![My Skills](https://skillicons.dev/icons?i=,cpp,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,cpp,vscode,visualstudio,github,git)](https://skillicons.dev)
 - #### Learning
 [![My Skills](https://skillicons.dev/icons?i=,js,html,css,ts,angular)](https://skillicons.dev)
 <br/>

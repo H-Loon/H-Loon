@@ -1,8 +1,8 @@
 # 🎧 H-Loon
 
 **`Digital Craftsman (Developer/Gamer/Dream-Destrtoyer)`**<br/> <br/>
-* 👋 Hello! I'm Elie Hadad<br/>
-* 🎓 Student at JCT | Studying Ingénieur Informatique<br/>
+* 👋 Hello! I'm Elie Hadad <br/>
+* 🎓 Student at JCT | Studying computer engineer <br/>
 * 💻 Passionate about C++, Game Development, and creating amazing front-end designs. <br/>
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [eliehadad770@gmail.com](mailto:eliehadad770@gmail.com )

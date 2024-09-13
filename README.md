@@ -11,7 +11,7 @@ Abrakadabra yessssssssssssss...
 - #### Skills
 [![My Skills](https://skillicons.dev/icons?i=,cpp,vscode,visualstudio)](https://skillicons.dev)
 - #### Learning
-[![My Skills](https://skillicons.dev/icons?i=,js,html,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,js,html,css,ts,angular)](https://skillicons.dev)
 <br/>
 
 #

@@ -8,8 +8,11 @@ Abrakadabra yessssssssssssss...
 
 ###  Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp,vscode,visualstudio)](https://skillicons.dev)
-<br />
+- #### Skills
+[![My Skills](https://skillicons.dev/icons?i=,cpp,vscode,visualstudio)](https://skillicons.dev)
+- #### Learning
+[![My Skills](https://skillicons.dev/icons?i=,js,html,css,ts)](https://skillicons.dev)
+<br/>
 
 #
 

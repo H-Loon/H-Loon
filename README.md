@@ -22,7 +22,7 @@
 * #### Skills
 [![My Skills](https://skillicons.dev/icons?i=,cpp,vscode,visualstudio,github,git)](https://skillicons.dev)
 * #### Learning
-[![My Skills](https://skillicons.dev/icons?i=,js,html,css,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,js,html,css,ts,angular,cs)](https://skillicons.dev)
 <br/>
 
 #

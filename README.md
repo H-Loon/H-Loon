@@ -1,6 +1,6 @@
 # 🎧 H-Loon
 
-**`Digital Craftsman (Developer/Gamer/Dream-Destrtoyer)`**<br/> <br/>
+**`Digital Craftsman (Developer/Gamer/Music-Enjoyer)`**<br/> <br/>
 * 👋 Hello! I'm Elie Hadad <br/>
 * 🎓 Student at JCT | Studying computer engineer <br/>
 * 💻 Passionate about C++, Game Development, and creating amazing front-end designs. <br/>

@@ -2,9 +2,9 @@
 
 **`Digital Craftsman (Developer/Gamer/Music-Enjoyer)`**<br/> <br/>
 * 👋 Hello! I'm Elie Hadad <br/>
-* 🎓 Student at JCT | Studying computer engineer <br/>
-* 💻 Passionate about C++, Game Development, and creating amazing front-end designs. <br/>
-* 🌍  I'm based in Belgium
+* 🎓 Student | Studying Computer Science <br/>
+* 💻 Passionate about C++, Game Development, and creating amazing Full-Stack web-apps. <br/>
+* 🌍  I'm based in Belgium 
 * ✉️  You can contact me at [eliehadad770@gmail.com](mailto:eliehadad770@gmail.com )
 
 
@@ -12,18 +12,15 @@
 
 ### 📖 | Interset 
 * #### Game Development<br/>
-* #### Front-End Development (UI/UX)<br/>
-* #### Learning more about web technologies and improving design skills.<br/>
+* #### Full-Stack Development<br/>
+* #### Learning more about new technologies and improving skills.<br/>
 
 #
 
 ###  🛠 | Languages and Tools
 
 * #### Skills
-[![My Skills](https://skillicons.dev/icons?i=,cs,cpp,vscode,visualstudio,github,git)](https://skillicons.dev)
-* #### Learning
-[![My Skills](https://skillicons.dev/icons?i=,js,html,css,ts,angular)](https://skillicons.dev)
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,java,css,html,js,dotnet,flutter,vscode,visualstudio,eclipse,idea,github,git,figma)](https://skillicons.dev)
 
 #
 

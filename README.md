@@ -3,8 +3,8 @@
 
 ### 🤳| Socials
 
-* [![Gmail](https://img.shields.io/badge/Gmail-9F1D3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliehadad770@gmail.com) <br/>
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&blank=true)](https://www.linkedin.com/in/elie-hadad-a28797199/) 
+* [![Gmail](https://img.shields.io/badge/Gmail-9F1D3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliehadad770@gmail.com ) <br/>
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&blank=true)](https://www.linkedin.com/in/elie-simon-el-hadad-a28797199) 
 * [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hloon) <br/>
 * [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/h_l00n2) <br/>
 

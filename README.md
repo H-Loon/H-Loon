@@ -1,11 +1,13 @@
 ![Widget](https://my-readme-widget.vercel.app/api/badge?id=outcSEh6gf3b0uq6fBPf)
-#
 
 <div align="center">
 
 ### Socials 
 
-</div> <br/>
+</div> 
+
+#
+<br/>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eliehadad770@gmail.com" style="text-decoration: none; display: inline-block;">

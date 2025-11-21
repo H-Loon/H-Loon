@@ -2,11 +2,9 @@
 
 <div align="center">
 
-### Socials 
+### Contacts
 
 </div> 
-
-#
 <br/>
 
 <p align="center">
